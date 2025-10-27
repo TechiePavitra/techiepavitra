@@ -2,6 +2,8 @@
 <br>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- I'm a Beginner in Web Development
+
 - 🔭 I’m currently working on **No Projects but learning**
 
 - 💬 Ask me about **i'm a student who is learning**
