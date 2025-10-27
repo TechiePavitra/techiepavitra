@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pavitra</h1>
+<img src="https://github.com/TechiePavitra/techiepavitra/blob/main/github-header-banner.png?raw=true">
+<br>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **No Projects but learning**
