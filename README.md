@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Pavitra Patil&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38">
-
-</div>
+<h1 align="center">TechiePavitra</h1>
 
 <div align="center">
   
